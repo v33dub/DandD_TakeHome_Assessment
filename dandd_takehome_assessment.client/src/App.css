@@ -1,0 +1,93 @@
+﻿.page {
+    flex-direction: column;
+}
+
+h1 {
+    color: #909090;
+    margin: 0.25em 0 0;
+}
+
+h1, button {
+    text-transform: uppercase;
+}
+
+.frame {
+    margin: 0 auto;
+    max-width: 800px;
+    width: 100%;
+}
+
+#content {
+    background-color: #262525;
+    color: white;
+    flex: 1;
+    margin-top: 25px;
+}
+
+#controls {
+    margin: auto;
+    width: calc(332px + 0.2em);
+}
+
+#controls > div {
+    margin-bottom: 2em;
+}
+
+button {
+    background-color: #575757;
+    border: 0;
+    color: white;
+    padding: 0.5em;
+    width: 100%;
+}
+
+#previous, #next, #reroll {
+    background-color: transparent;
+    background-repeat: no-repeat;
+    height: 60px;
+}
+
+#previous {
+    background-image: url("assets/images/RedButton_Previous.png");
+}
+
+#previous span {
+    margin-left: 2em;
+}
+
+#next {
+    background-image: url("assets/images/RedButton_Next.png");
+}
+
+#next span {
+    margin-right: 2em;
+}
+
+#reroll {
+    background-image: url("assets/images/RedButton.png");
+    background-size: cover;
+    height: 51px;
+}
+
+.flex > button {
+    margin-bottom: 0.5em;
+}
+
+.flex > button:first-child {
+    margin-right: 0.1em;
+}
+
+.flex > button:last-child {
+    margin-left: 0.1em;
+}
+
+input {
+    background-color: black;
+    border: 1px solid gray;
+    box-sizing: border-box;
+    color: white;
+    margin-bottom: 0.5em;
+    padding: 0.5em;
+    text-align: center;
+    width: 100%;
+}

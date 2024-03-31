@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\waldo\\OneDrive\\Documents\\GitHub\\DandD_TakeHome_Assessment\\DandD_TakeHome_Assessment.Server\\..\\dandd_takehome_assessment.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

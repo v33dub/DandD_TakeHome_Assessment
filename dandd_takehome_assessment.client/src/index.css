@@ -1,0 +1,36 @@
+@font-face {
+    font-family: Roboto-Bold;
+    src: url('assets/fonts/Roboto-Bold.ttf');
+}
+
+@font-face {
+    font-family: Roboto-Medium;
+    src: url('assets/fonts/Roboto-Medium.ttf');
+}
+
+@font-face {
+    font-family: TiamatCondensedSC-Regular;
+    src: url('assets/fonts/TiamatCondensedSC-Regular.otf');
+}
+
+html, body, #root, .page {
+    height: 100%;
+}
+
+body {
+    font-family: 'Roboto-Medium', sans-serif;
+    text-align: center;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'TiamatCondensedSC-Regular', sans-serif;
+    font-weight: 300;
+}
+
+button {
+    font-family: 'Roboto-Bold', sans-serif;
+}
+
+.flex {
+    display: flex;
+}

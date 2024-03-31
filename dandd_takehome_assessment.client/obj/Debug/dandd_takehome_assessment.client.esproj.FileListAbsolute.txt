@@ -1,0 +1,2 @@
+C:\Users\waldo\source\repos\DandD_TakeHome_Assessment\dandd_takehome_assessment.client\obj\Debug\dandd_takehome_assessment.client.esproj.CoreCompileInputs.cache
+C:\Users\waldo\OneDrive\Documents\GitHub\DandD_TakeHome_Assessment\dandd_takehome_assessment.client\obj\Debug\dandd_takehome_assessment.client.esproj.CoreCompileInputs.cache

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DandD_TakeHome_Assessment.Server.props" />
+</Project>
